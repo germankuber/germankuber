@@ -2,7 +2,7 @@
 
 👋 Hi there, I’m **Germán Küber**, a Blockchain Developer & MEV Researcher 
 📍 Based in **Gran Canarias, Spain**  
-🎖 **Microsoft MVP** & **Arctic Code Vault Contributor**  
+🎖 **Microsoft MVP**  
 🌐 Visit my website: [germankuber.com](https://germankuber.com)  
 🐦 Follow me on Twitter: [@germankuber](https://twitter.com/germankuber)  
 🎩 Fun fact: I’m also a card magician ♣♥♠♦  
