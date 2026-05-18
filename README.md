@@ -1,4 +1,6 @@
-# Germán Küber
+<img src="https://networkstatic.net/wp-content/uploads/2020/01/rustacean-banner.png" alt="Rust" width="150" align="right"/>
+
+# Germán Küber <img src="https://www.kliver.ai/images/kliver-diamond.png" alt="Kliver" width="32" align="center"/>
 
 Fractional CTO & Staff Engineer · 15+ years building systems. Based in Las Palmas, Spain (EU).
 Player-coach: I lead engineering teams and stay deep in the code.
